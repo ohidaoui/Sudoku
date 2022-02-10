@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>rsc/load.png</file>
+        <file>rsc/logo.png</file>
+        <file>rsc/save.png</file>
+    </qresource>
+</RCC>
