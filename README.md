@@ -17,7 +17,8 @@ Sudoku game based on Qt framework
 - [Final Result](https://github.com/ohidaoui/Sudoku#final-result)
 - [Conclusion and future enhancements](https://github.com/ohidaoui/Sudoku#conclusion--future-enhancements-)
   
-  
+------
+
 ## Components  
 The main components of this Sudoku app are :
   - **The central widget**
@@ -569,6 +570,9 @@ void MainWindow::load(QString filename){
 <p align="center"><img width="80%" src="https://user-images.githubusercontent.com/92833778/153344349-0ed846c8-e3a7-49b8-9181-90d11c0e1ba7.PNG"></p>
   
 > Here I cheated by generating a puzzle with only few cells empty.
+
+  
+-------
 
 ## Conclusion & Future enhancements :
   
