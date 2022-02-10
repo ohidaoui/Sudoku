@@ -565,6 +565,11 @@ void MainWindow::load(QString filename){
 
 ![demo](https://user-images.githubusercontent.com/92833778/153335614-356b49c8-c1e3-47cd-bd2e-4736aeb8af46.gif)
   
+  
+<p align="center"><img width="80%" src="https://user-images.githubusercontent.com/92833778/153344349-0ed846c8-e3a7-49b8-9181-90d11c0e1ba7.PNG"></p>
+  
+> Here I cheated by generating a puzzle with only few cells empty.
+
 ## Conclusion & Future enhancements :
   
 In this repository I was presenting the process of making a basic C++ Sudoku using Qt framework.  
