@@ -4,18 +4,18 @@ Sudoku game based on Qt framework
 --------
 
 ## Index
-- [Components]()
-- [Puzzle Widget]()
-    * [Drawing the board]()
-    * [the Generator]()
-    * [the Solver]()
-    * [the Checker]()
-- [Control Widget]()
-    * [Connecting components]()
-    * [Drawing the numpad]()
-    * [Saving and loading puzzles]()
-- [Final Result]()
-- [Conclusion and future enhancements]()
+- [Components](https://github.com/ohidaoui/Sudoku#components)
+- [Puzzle Widget](https://github.com/ohidaoui/Sudoku#building-the-sudoku-board-widget)
+    * [Drawing the board](https://github.com/ohidaoui/Sudoku#drawing-the-grid-)
+    * [the Generator](https://github.com/ohidaoui/Sudoku#generating-the-puzzle-)
+    * [the Checker](https://github.com/ohidaoui/Sudoku#checking-the-moves-)
+    * [the Solver](https://github.com/ohidaoui/Sudoku#implementing-a-sudoku-solver-)
+- [Control Widget](https://github.com/ohidaoui/Sudoku#control-widget)
+    * [Drawing the numpad](https://github.com/ohidaoui/Sudoku#control-widget)
+    * [Connecting components](https://github.com/ohidaoui/Sudoku#slots)
+    * [Saving and loading puzzles](https://github.com/ohidaoui/Sudoku#saving-and-loading-puzzles)
+- [Final Result](https://github.com/ohidaoui/Sudoku#final-result)
+- [Conclusion and future enhancements](https://github.com/ohidaoui/Sudoku#conclusion--future-enhancements-)
   
   
 ## Components  
